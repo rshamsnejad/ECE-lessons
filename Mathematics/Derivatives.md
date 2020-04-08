@@ -8,7 +8,7 @@ $ \boxed{\frac{d}{dx}[f(x)+g(x)] = \frac{d}{dx}f(x) + \frac{d}{dx}g(x)} $
 
 #### Product
 
-$ \boxed{\frac{d}{dx}[f(x) \times g(x)] = [f(x) \times \frac{d}{dx}g(x)] + [\frac{d}{dx}f(x) \times g(x)]} $
+$ \boxed{\frac{d}{dx}[f(x) \times g(x)] = \left[f(x) \times \frac{d}{dx}g(x)\right] + \left[\frac{d}{dx}f(x) \times g(x)\right]} $
 
 #### Multiplying by a real number
 
@@ -28,7 +28,8 @@ $ \boxed{\frac{d}{dx}[f(x)-g(x)]}
 
 #### Inverse
 
-$ \boxed{\frac{d}{dx}(\frac{1}{f(x)}) = \frac{-\frac{d}{dx}f(x)}{f(x)^2}} $
+$ \boxed{\frac{d}{dx}\left[\frac{1}{f(x)}\right] = \frac{-\frac{d}{dx}f(x)}{f(x)^2}} $
+
 
 ## Common functions' derivatives
 
@@ -58,18 +59,18 @@ This gives in particular :
 By using the polynom derivative :
 
 $ \forall x \in \R^* , \forall k \in \N $
-$ \boxed{\frac{d}{dx}(\frac{1}{x^k})}
+$ \boxed{\frac{d}{dx}\left(\frac{1}{x^k}\right)}
 \\ = \frac{d}{dx}(x^{-k})
 \\ = -k \times x^{(-k-1)}
 \\ \boxed{= \frac{-k}{x^{(k+1)}}} $
 
 This gives in particular :
 
-* $ \boxed{\frac{d}{dx}(\frac{1}{x})}
+* $ \boxed{\frac{d}{dx}\left(\frac{1}{x}\right)}
 \\ = \frac{d}{dx}(\frac{1}{x^1})
 \\ = \frac{-1}{x^{(1+1)}}
 \\ \boxed{= \frac{-1}{x^2}} $
-* $ \boxed{\frac{d}{dx}(\frac{1}{x^2})}
+* $ \boxed{\frac{d}{dx}\left(\frac{1}{x^2}\right)}
 \\ = \frac{-2}{x^{(2+1)}}
 \\ \boxed{= \frac{-2}{x^3}} $
 
