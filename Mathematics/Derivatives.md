@@ -40,6 +40,10 @@ $ \boxed{\frac{d}{dx}\left(\frac{f(x)}{g(x)}\right)}
 \\ \boxed{= \frac{\left[-f(x) \times \frac{d}{dx}g(x) \right] + \left[\frac{d}{dx}f(x) \times g(x) \right] }{g(x)^2}}
  $
 
+#### Chain rule
+
+$ \boxed{(f \circ g)'(x) = (f' \circ g)(x) \times g(x)} $
+
 ## Common functions' derivatives
 
 #### Constant
