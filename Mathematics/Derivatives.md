@@ -30,6 +30,15 @@ $ \boxed{\frac{d}{dx}[f(x)-g(x)]}
 
 $ \boxed{\frac{d}{dx}\left[\frac{1}{f(x)}\right] = \frac{-\frac{d}{dx}f(x)}{f(x)^2}} $
 
+#### Quotient
+
+$ \boxed{\frac{d}{dx}\left(\frac{f(x)}{g(x)}\right)}
+\\ = \frac{d}{dx}\left(f(x) \times \frac{1}{g(x)}\right)
+\\ = \left[f(x) \times \frac{d}{dx}\left(\frac{1}{g(x)}\right)\right] +  \left[\frac{d}{dx}f(x) \times \frac{1}{g(x)}\right]
+\\ = \left[ f(x) \times \frac{-\frac{d}{dx}g(x)}{g(x)^2} \right] + \left[\frac{d}{dx}f(x) \times \frac{1}{g(x)}\right]
+\\ = \left[ \frac{-f(x) \times \frac{d}{dx}g(x)}{g(x)^2} \right] + \left[\frac{\frac{d}{dx}f(x) \times g(x)}{g(x)^2}\right]
+\\ \boxed{= \frac{\left[-f(x) \times \frac{d}{dx}g(x) \right] + \left[\frac{d}{dx}f(x) \times g(x) \right] }{g(x)^2}}
+ $
 
 ## Common functions' derivatives
 
