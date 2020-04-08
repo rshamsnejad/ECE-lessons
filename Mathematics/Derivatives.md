@@ -4,23 +4,23 @@
 
 #### Sum
 
-$ \boxed{\frac{d}{dx}(f(x)+g(x)) = \frac{d}{dx}f(x) + \frac{d}{dx}g(x)} $
+$ \boxed{\frac{d}{dx}[f(x)+g(x)] = \frac{d}{dx}f(x) + \frac{d}{dx}g(x)} $
 
 #### Product
 
-$ \boxed{\frac{d}{dx}(f(x) \times g(x)) = f(x) \times \frac{d}{dx}g(x) + \frac{d}{dx}f(x) \times g(x)} $
+$ \boxed{\frac{d}{dx}[f(x) \times g(x)] = [f(x) \times \frac{d}{dx}g(x)] + [\frac{d}{dx}f(x) \times g(x)]} $
 
 #### Multiplying by a real number
 
 $ \forall k \in \R $
-$ \boxed{\frac{d}{dx}(k \times f(x))}
+$ \boxed{\frac{d}{dx}[k \times f(x)]}
 \\ = k \times \frac{d}{dx}f(x) + \frac{d}{dx}(k) \times f(x)
 \\ = k \times \frac{d}{dx}f(x) + 0 \times f(x)
 \\ \boxed{= k \times \frac{d}{dx}f(x)} $
 
 #### Difference
 
-$ \boxed{\frac{d}{dx}(f(x)-g(x))}
+$ \boxed{\frac{d}{dx}[f(x)-g(x)]}
 \\ = \frac{d}{dx}(f(x)+[-1 \times g(x)])
 \\ = \frac{d}{dx}f(x) + \frac{d}{dx}[-1 \times g(x)]
 \\ = \frac{d}{dx}f(x) + [-1 \times \frac{d}{dx}g(x)]
