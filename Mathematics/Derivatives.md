@@ -134,3 +134,11 @@ This gives in particular :
 $ \forall x \in \R $
 $ \boxed{\frac{d}{dx}(cos(x)) = -sin(x)} $ *(+ 1/4<sup>th</sup> on the trigonometric circle)*
 $ \boxed{\frac{d}{dx}(sin(x)) = cos(x)} $ *(+ 1/4<sup>th</sup> on the trigonometric circle)*
+
+This gives in particular :
+
+* $ \boxed{\frac{d}{dx}tan(x)}
+\\ = \frac{d}{dx}\left[\frac{sin(x)}{cos(x)}\right]
+\\ = \frac{\left[-sin(x) \times \frac{d}{dx}cos(x) \right] + \left[\frac{d}{dx}sin(x) \times cos(x) \right] }{cos(x)^2}
+\\ = \frac{sin(x)^2 + cos(x)^2}{cos(x)^2}
+\\ \boxed{= \frac{1}{cos(x)^2}} $
