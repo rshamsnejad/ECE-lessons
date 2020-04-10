@@ -27,3 +27,9 @@ This gives in particular :
 $ \forall x \in \R^* , \forall C \in \R, \forall n \in \N, n \ge 2 $
 $ \boxed{\int\left(\frac{1}{x}\right)dx = ln |x| + C} $
 $ \boxed{\int\left(\frac{1}{x^n}\right)dx = \frac{-1}{(n-1)\times x^{(n-1)}} + C} $
+
+#### Square root
+
+$ \forall x \in \R_+^* , \forall C \in \R $
+$ \boxed{\int\left(\frac{1}{\sqrt{x}}\right)dx = 2 \times \sqrt{x} + C} $
+
