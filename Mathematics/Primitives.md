@@ -33,3 +33,13 @@ $ \boxed{\int\left(\frac{1}{x^n}\right)dx = \frac{-1}{(n-1)\times x^{(n-1)}} + C
 $ \forall x \in \R_+^* , \forall C \in \R $
 $ \boxed{\int\left(\frac{1}{\sqrt{x}}\right)dx = 2 \times \sqrt{x} + C} $
 
+#### Exponential
+
+$ \forall (x,\lambda,C) \in \R^3, \forall a \in \R_+^* $
+$ \boxed{\int \left[a^{(\lambda \times x)}\right]dx = \frac{1}{\lambda \times ln(a)} \times a^{(\lambda \times x)} + C} $
+
+This gives in particular :
+
+* $ \boxed{\int \left[ e^{(\lambda \times x)} \right]dx}
+\\ = \frac{1}{\lambda \times ln(e)} \times e^{(\lambda \times x)} + C
+\\ \boxed{= \frac{1}{\lambda} \times e^{(\lambda \times x)} + C} $
