@@ -43,3 +43,9 @@ This gives in particular :
 * $ \boxed{\int \left[ e^{(\lambda \times x)} \right]dx}
 \\ = \frac{1}{\lambda \times ln(e)} \times e^{(\lambda \times x)} + C
 \\ \boxed{= \frac{1}{\lambda} \times e^{(\lambda \times x)} + C} $
+
+#### Logarithm
+
+$ \forall x \in \R_+^* , C \in \R $
+$ \boxed{\int [ln(x)]dx = x \times ln(x) - x + C} $
+
