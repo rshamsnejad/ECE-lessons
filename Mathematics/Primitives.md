@@ -9,7 +9,7 @@ $ \boxed{\int(\lambda)dx = \lambda \times x + C} $
 
 #### Polynoms
 
-$ \forall  (x,C) \in \R^2, n \in \N^* $
+$ \forall  (x,C) \in \R^2, \forall n \in \N^* $
 $ \boxed{\int(x^n)dx = \frac{x^{(n+1)}}{n+1} + C} $
 
 This gives in particular :
