@@ -49,3 +49,9 @@ This gives in particular :
 $ \forall x \in \R_+^* , C \in \R $
 $ \boxed{\int [ln(x)]dx = x \times ln(x) - x + C} $
 
+#### Trigonometric
+
+$ \forall (x,C) \in \R^2, \forall \omega \in \R^* $
+$ \boxed{\int [cos(\omega \times x)]dx = \frac{1}{\omega} \times sin(\omega \times x)} $
+$ \boxed{\int [sin(\omega \times x)]dx = \frac{-1}{\omega} \times cos(\omega \times x)} $
+$ \boxed{\int [tan(x)]dx = -ln|cos(x)|} $
