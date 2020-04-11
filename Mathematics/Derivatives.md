@@ -44,6 +44,14 @@ $ \boxed{\frac{d}{dx}\left(\frac{f(x)}{g(x)}\right)}
 
 $ \boxed{(f \circ g)'(x) = (f' \circ g)(x) \times g(x)} $
 
+#### Exponential
+
+$ \boxed{\frac{d}{dx}\left[e^{u(x)}\right] = \frac{d}{dx}u(x) \times e^{u(x)}} $
+
+#### Logarithm
+
+$ \boxed{\frac{d}{dx}ln[u(x)] = \frac{\frac{d}{dx}u(x)}{u(x)}} $
+
 ## Common functions' derivatives
 
 #### Constant
