@@ -70,7 +70,7 @@ $ \boxed{\int [ln(x)]dx = x \times ln(x) - x + C} $
 
 #### Trigonometric
 
-$ \forall (x,C) \in \R^2, \forall \omega \in \R^* $
-$ \boxed{\int [cos(\omega \times x)]dx = \frac{1}{\omega} \times sin(\omega \times x)} $
-$ \boxed{\int [sin(\omega \times x)]dx = \frac{-1}{\omega} \times cos(\omega \times x)} $
+$ \forall (x,\phi, C) \in \R^3, \forall \omega \in \R^* $
+$ \boxed{\int [cos(\omega \times x + \phi)]dx = \frac{1}{\omega} \times sin(\omega \times x + \phi)} $
+$ \boxed{\int [sin(\omega \times x + \phi)]dx = \frac{-1}{\omega} \times cos(\omega \times x + \phi)} $
 $ \boxed{\int [tan(x)]dx = -ln|cos(x)|} $
