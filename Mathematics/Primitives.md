@@ -1,5 +1,24 @@
 # Primitives
 
+## Composing with primitives
+
+#### Sum
+
+$ \boxed{\int\left[u(x)+v(x)\right]dx = \int[u(x)]dx + \int[v(x)]dx} $
+
+#### Multiplying by a constant
+
+$ \forall k \in \R $
+$ \boxed{\int[k \times u(x)]dx = k \times \int[u(x)]dx} $
+
+#### Quotient
+
+$ \boxed{\int\left[\frac{\frac{d}{dx}u(x)}{u(x)}\right]dx = ln|u(x)|} $
+
+#### Exponential
+
+$ \boxed{\int\left[\frac{d}{dx}u(x) \times e^{u(x)}\right]dx = e^{u(x)}} $
+
 ## Common functions' primitives
 
 #### Constant
