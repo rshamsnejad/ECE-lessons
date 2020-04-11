@@ -146,3 +146,7 @@ This gives in particular :
 \\ = \frac{\left[-sin(x) \times \frac{d}{dx}cos(x) \right] + \left[\frac{d}{dx}sin(x) \times cos(x) \right] }{cos(x)^2}
 \\ = \frac{sin(x)^2 + cos(x)^2}{cos(x)^2}
 \\ \boxed{= \frac{1}{cos(x)^2}} $
+
+$ \boxed{\frac{d}{dx}cos^{-1}(x) = \frac{-1}{\sqrt{1-x^2}}} $
+$ \boxed{\frac{d}{dx}sin^{-1}(x) = \frac{1}{\sqrt{1-x^2}}} $
+$ \boxed{\frac{d}{dx}tan^{-1}(x) = \frac{1}{1+x^2}} $
