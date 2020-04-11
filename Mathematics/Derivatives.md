@@ -136,8 +136,8 @@ This gives in particular :
 #### Trigonometric
 
 $ \forall x \in \R $
-$ \boxed{\frac{d}{dx}(cos(x)) = -sin(x)} $ *(+ 1/4<sup>th</sup> on the trigonometric circle)*
-$ \boxed{\frac{d}{dx}(sin(x)) = cos(x)} $ *(+ 1/4<sup>th</sup> on the trigonometric circle)*
+$ \boxed{\frac{d}{dx}(cos(x)) = -sin(x)} $ *(- 1/4<sup>th</sup> on the trigonometric circle)*
+$ \boxed{\frac{d}{dx}(sin(x)) = cos(x)} $ *(- 1/4<sup>th</sup> on the trigonometric circle)*
 
 This gives in particular :
 
